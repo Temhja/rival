@@ -1840,6 +1840,7 @@ ul.sociel_link li a {
 }
 .service .service-box {
   padding: 30px 20px;
+  background-color: #114c7d;
   box-shadow: #00000040 0px 0px 19px 0px;
   margin-bottom: 30px;
   text-align: center;
@@ -1853,12 +1854,12 @@ ul.sociel_link li a {
   font-weight: 500;
   font-size: 22px;
   line-height: 22px;
-  color: #050000;
+  color: #fff;
   padding: 20px 0px;
 }
 
 .service .service-box p {
-  color: #0d0c0a;
+  color: #fff;
   font-size: 17px;
   line-height: 28px;
 }
