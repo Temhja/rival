@@ -25,6 +25,7 @@
 @import url(slick.css);
 @import url(jquery-ui.css);
 @import url(nice-select.css);
+@import url(fold.css);
 
 /*---------------------------------------------------------------------
     skeleton
@@ -1141,7 +1142,7 @@ nav.main-menu {
   vertical-align: middle;
 }
 
-.main-menu ul > li:nth-child (6) {
+.main-menu ul > li:nth-child(6) {
   padding-right: 0px;
 }
 
